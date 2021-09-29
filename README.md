@@ -8,5 +8,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jflec&show_icons=true&locale=en" alt="jflec" /></p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JFlec&layout=compact)](https://github.com/JFlec)
-
