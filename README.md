@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joe</h1>
 
-- 🌱 I’m currently learning **React Native**
-
-- 👨‍💻 All of my projects are available at [https://jflec.github.io/portfolio/](https://jflec.github.io/portfolio/)
-
-- 📫 How to reach me **https://www.linkedin.com/in/joe-felicidario-3755151b7/**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jflec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jflec" height="30" width="40" /></a>
