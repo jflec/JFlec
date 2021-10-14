@@ -1,4 +1,13 @@
-<h1 align="center">Hi 👋, I'm Joe</h1>
+```javascript
+  console.log("Hello 👋");
+  const name = "Joe Felicidario"
+  let age = 20;
+  let location = "The Woodlands, TX";
+  let hobbies = [gaming,
+                 streaming,
+                 swimming,
+                 baseball];
+```
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
